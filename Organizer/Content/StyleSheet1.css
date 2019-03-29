@@ -1,0 +1,33 @@
+﻿body {
+    background-image: url(http://image.noelshack.com/fichiers/2014/47/1416417835-wallpaper-fond-ecran-design-0187.jpg);
+    background-attachment: fixed;
+}
+
+
+#datejour {
+    color: royalblue;
+    text-align: center;
+    font-weight: 900
+}
+
+#jumbo {
+    padding-top: 50px;
+}
+
+.field-validation-error {
+    font-weight: bold;
+    color: red;
+    background-color: yellow;
+}
+
+.validation-summary-errors {
+    border: 2px dashed red;
+    color: red;
+    background-color: yellow;
+    font-weight: bold;
+    margin: 12px;
+}
+
+.active {
+    background-color: grey;
+}
